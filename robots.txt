@@ -1,1 +1,1 @@
-Sitemap: https://reknij.github.io/DiosicDocEN/sitemap.xml
+Sitemap: https://reknij.github.io/DiosicDocCN/sitemap.xml
