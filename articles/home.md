@@ -15,7 +15,7 @@ isHome: true
 *Diosic* 提供 web ui 来流式传输音乐或控制某些东西。
 
 # 部署
-您可以从 [Documents](/documents/installFromDocker) 轻松部署 Diosic。
+您可以从 [Documents](/DiosicDocCN/documents/installFromDocker) 轻松部署 Diosic。
 
 # 截图
 ![screenshot_1](https://github.com/Reknij/DiosicDocEN/blob/main/screenshots/1.png?raw=true)
